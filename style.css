@@ -50,7 +50,7 @@ button{
 }
 
 img{
-    width: 120px;
+    width: 200px;
     object-fit: cover;
     object-position: center;
 /* overflow: hidden; */
